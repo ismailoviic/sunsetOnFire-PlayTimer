@@ -10,6 +10,8 @@ export default props => {
       <Play number={2} addToTable={props.addToTable} />
       <Play number={3} addToTable={props.addToTable} />
       <Play number={4} addToTable={props.addToTable} />
+      <Play number={5} addToTable={props.addToTable} />
+      <Play number={6} addToTable={props.addToTable} />
     </div>
     // <button onClick={(e, ..arg) => HandleClick(e)}
   )

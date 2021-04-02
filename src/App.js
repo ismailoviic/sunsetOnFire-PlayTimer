@@ -17,7 +17,7 @@ const App = () => {
   const [tableau, addData] = useState([])
   const addToTable = data => addData([...tableau, data])
   const deletFromTab = index =>
-    addData(index => {
+    addData( _ => {
       let newTable = [...tableau]
       newTable.splice(index, 1)
       return newTable

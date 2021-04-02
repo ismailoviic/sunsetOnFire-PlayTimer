@@ -5,6 +5,7 @@ export const useStyles = createUseStyles({
     display: 'flex',
     justifyContent: 'center',
     alineItems: 'center',
-    flexDirection: 'row'
+    flexDirection: 'row',
+    flexWrap: 'wrap'
   }
 })
