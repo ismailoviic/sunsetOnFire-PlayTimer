@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/sunsetOnFire-PlayTimer/precache-manifest.f2dbc20c9f8e92cc2284027e91db6559.js"
+  "/sunsetOnFire-PlayTimer/precache-manifest.11d46fc2333c5baa8103cf53300c752c.js"
 );
 
 self.addEventListener('message', (event) => {
